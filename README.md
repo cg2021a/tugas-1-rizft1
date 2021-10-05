@@ -5,7 +5,7 @@ Tugas 1
 M Rizqi Fiqih Thalib
 05111940000219**
 
-Nama Benda : Kursi
+Nama Benda : Kursi <br>
 link tugas kursi Webgl : <a href = "https://cg2021a.github.io/tugas-1-rizft1/"> link <a/>
 
 foto dari sudut depan atas
