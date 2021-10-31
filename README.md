@@ -20,3 +20,7 @@ foto dari sudut belakang atas
 foto dari sudut kiri atas
 ![kiri](https://user-images.githubusercontent.com/62735317/134189613-ff13de95-885b-4b48-899b-7607bbaa44c8.jpg)
 
+  # Tugas 4 Grafkom A
+  
+  web : <a href="https://cg2021a.github.io/tugas-1-rizft1/Tugas Individu 4 Grafkom A/index.html"> link </a>
+  ![Capture](https://user-images.githubusercontent.com/62735317/139599697-66780638-cc56-467e-85ae-4b6717fa1640.PNG)
